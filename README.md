@@ -1,3 +1,6 @@
+# Description
+This is a sample project for flask crud api. You can to start your porject by reference this project. Is a good start for new user of flask.
+
 # install packages
 pip install -r requirements.txt
 
