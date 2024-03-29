@@ -9,9 +9,13 @@ edit config.py to config database
 
 ## Initial database
 flask db init
+
 flask db migrate
+
 flask db upgrade
+
 Undo upgrade by:
+
 flask db downgrade
 
 # Launch 
